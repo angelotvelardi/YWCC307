@@ -1,1 +1,2 @@
 # YWCC307
+This GitHub repository contains a presentation that discusses the drawbacks of using plaintext passwords as the sole means for user authentication. Data from a study done at Carnegie Mellon is presented to show how vulnerable plaintext passwords are to being guessed. It then proposes multiple alternatives analyzing their pros and cons. The presentation concludes by offering a more robust solution by making use of mulitple methods to make up for the cons of relying on just one method. 
